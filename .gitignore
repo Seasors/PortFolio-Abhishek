@@ -1,0 +1,20 @@
+# Node and build files (in case you expand later)
+node_modules/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+*.bak
+*.tmp
